@@ -28,11 +28,11 @@ Contains all the Image files used in this project.
 ## C. Logo Folder:
 A sub folder of the image folder which contains all the logo files used in this project.
 
-## D. Index.html:
+### 3. Index.html:
 The **main HTML** file where the main code is written.
 
-## E. Docs.html:
+### 4. Docs.html:
 A **SUB HTML** file as documentation page on how to use loruki.
 
-## F. Mediaplayer2.html:
+### 5. Features.html:
 A **SUB HTML** file that describes the features of the loruki website.
