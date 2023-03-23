@@ -1,7 +1,10 @@
 # LORUKI CLONE
 This project is a clone of loruki website.
-It was deveoped by **JudeChuks, 12/12/2022** 
+It was developed by **JudeChuks, 12/12/2022** 
 to **14/12/2022**
+
+## LINK
+**[Loruki clone](https://judechuks.github.io/loruki/ "Loruki clone")**
 
 ## TECHNOLOGIES / LANGUAGES
 This project was developed using 
